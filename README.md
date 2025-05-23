@@ -1,4 +1,7 @@
 # Pharmacy Expansion Optimization Using SQL & SafeGraph
+SQL-based analysis of pharmacy demand, brand dominance, and optimal hours using SafeGraph data
+
+
 
 ## Project Overview 
 This project leveraged **SafeGraph foot traffic and demographic data** to identify ideal expansion sites for pharmacy chains. Using SQL queries on Google BigQuery, we evaluated:
